@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Welcome({ name, studentClass, age, hobby }) {
   return (
     <div className="welcome-card">
@@ -10,3 +12,4 @@ function Welcome({ name, studentClass, age, hobby }) {
     </div>
   );
 }
+export default Welcome;
