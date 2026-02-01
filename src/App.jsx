@@ -11,7 +11,7 @@ function App() {
       <Welcome 
         name="Thái Nguyên"
         studentClass="26.SP.IT3"
-        age="18"
+        age="19"
         hobby="Tiền" 
       />
     </div>
